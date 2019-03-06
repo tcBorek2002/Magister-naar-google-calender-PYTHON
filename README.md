@@ -7,7 +7,7 @@ Met deze code zet jij jouw magister lessen in google agenda/calender!
   - *Ik ga binnekort een video maken over hoe je het programma gebruikt zodat iedereen dat kan doen. Ook ga ik een video maken over de werking van de code zelf.*
 
 ## Installeren en gebruiken:
-1. Download het python bestand en plaats het in een aparte map
+1. Download het python, en credentials.json bestand en plaats het in een map. (Bij elkaar)
 2. Installeer de selenium library
   - *(Selenium: https://selenium-python.readthedocs.io/)*
   - *(Standaard command voor installeren : pip install selenium)*
