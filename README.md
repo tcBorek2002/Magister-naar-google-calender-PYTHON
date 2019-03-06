@@ -14,7 +14,7 @@ Met deze code zet jij jouw magister lessen in google agenda/calendar!
 3. Installeer de google calendar library
    - *(Google calendar: https://developers.google.com/api-client-library/python/start/installation)*
    - *(Standaard command: pip install --upgrade google-api-python-client google-auth-httplib2 google-auth-oauthlib)*
-4. Verkrijg een credentials.json file. Lees daarvoor deze uitleg: https://github.com/lesander/magister-calendar/blob/master/ENABLEAPI.md     Plaats de credentials.json file in dezelfde maps als het python bestand.
+4. Verkrijg een credentials.json file. Ga naar: https://developers.google.com/calendar/quickstart/python . Klik op : Enable the Google Calendar API . Klik op :Download client configuration.  Plaats de credentials.json file in dezelfde maps als het python bestand.
 4. Open de code met een code editor. (Maakt niet uit welke, als hij maar werkt.)
 5. Verander de variabelen. (In de python file zelf staat hoe dit moet)
 6. Voer het bestand uit, als het goed is moet je eerst bij google inloggen. Daarna zal je rooster
