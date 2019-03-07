@@ -23,13 +23,13 @@ worden binnengeladen en geupload naar google calendar.
 
 
 
-##### pip*
+## Pip*
 Met pip installeer je libraries in python. Met libraries maak je het mogelijk om meer te doen met je python code.
 
 Hoe werkt pip?
 
-- Als je python hebt geinstalleerd vanaf de officiele website, dan zul je pip al hebben. Anders moet je deze zelf installeren.
-1. Als je pip hebt open je cmd als administrator.
+- Als je python hebt geinstalleerd vanaf de officiele website, dan zul je pip al hebben. Anders moet je het zelf installeren.
+1. Als je pip hebt geinstalleerd open je cmd als administrator.
 2. Voer de commando's uit in cmd. (De 2 commando's die hierboven weergegeven zijn)
 3. Als het werkt zie je staan dat de libraries worden geinstaleerd.
 4. Als je beide libraries hebt geinstalleerd ben je klaar.
