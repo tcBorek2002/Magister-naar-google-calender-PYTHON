@@ -1,6 +1,8 @@
 # Magister-naar-google-calendar-PYTHON
 Met deze code zet jij jouw magister lessen in google agenda/calendar!
 
+# Let op! Deze code is verouderd en werkt mogelijk niet meer!
+
 Showcase: https://youtu.be/KFODdhRzVu0
 ##### Benodigdheden:
 - Ervaring met python, libraries kunnen installeren.
