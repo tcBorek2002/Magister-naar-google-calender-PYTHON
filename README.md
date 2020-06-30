@@ -38,4 +38,4 @@ Hoe werkt pip?
 3. Als het werkt zie je staan dat de libraries worden geinstaleerd.
 4. Als je beide libraries hebt geinstalleerd ben je klaar.
 
-©Borek Bandell 2019
+Borek Bandell 2019
