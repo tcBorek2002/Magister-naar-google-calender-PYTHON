@@ -1,7 +1,36 @@
+-Dutch version below-
+
+# Magister-to-google-calendar-PYTHON
+This code can load your magister classes into Google Calendar!
+
+## Warning! This project is outdated and may not work as intended anymore!
+
+Showcase: https://youtu.be/KFODdhRzVu0
+##### What you need to use this project:
+- Experience with Python
+- Chrome
+- A Python file editor
+
+## Installing and using:
+1. Download the python file or clone this repository.
+2. Install the selenium library
+  - *(Selenium: https://selenium-python.readthedocs.io/)*
+  - *(Command : pip install selenium)*
+3. Install the Google Calendar library
+   - *(Google calendar: https://developers.google.com/api-client-library/python/start/installation)*
+   - *(Command: pip install --upgrade google-api-python-client google-auth-httplib2 google-auth-oauthlib)*
+4. Get a credentials.json file. Go to: https://developers.google.com/calendar/quickstart/python . Click: Enable the Google Calendar API . Then click :Download client configuration.  Place the credentials.json file in the same folder as the Python file from this project.
+4. Open the Python file with a code editor.
+5. Change the required variables. 
+6. Execute the Python file. It will let you log in at Google. Then it will load your schedule from Magister and then import it into Google Calendar.
+7. When magister opens make sure you select the day you want to import into Google Calendar.
+
+Translated into English, 2022 Borek Bandell
+
 # Magister-naar-google-calendar-PYTHON
 Met deze code zet jij jouw magister lessen in google agenda/calendar!
 
-# Let op! Deze code is verouderd en werkt mogelijk niet meer!
+## Let op! Deze code is verouderd en werkt mogelijk niet meer!
 
 Showcase: https://youtu.be/KFODdhRzVu0
 ##### Benodigdheden:
